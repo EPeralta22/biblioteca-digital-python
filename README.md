@@ -22,4 +22,4 @@ Sistema en Python diseñado para administrar el catálogo de una biblioteca, el 
 
 Para ejecutar el proyecto:
 
-python main.py
+python main_2.py
